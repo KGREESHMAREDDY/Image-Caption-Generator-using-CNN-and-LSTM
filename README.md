@@ -13,7 +13,7 @@ Recent advances in deep learning have enabled end-to-end models that generate ca
 Dataset Used: Flickr 8k Dataset
 Captions: Flickr8k Text Descriptions
 
-🧠 Model Architecture
+Model Architecture
 
 CNN: Pretrained CNN (e.g., InceptionV3 / VGG16) to extract image features
 LSTM: Processes the sequence of words conditioned on image features
